@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaignatiiloio00polagoog_0007.png"; bbox 0 0 3642 5350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 361 529 1371 650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 361 469 1371 650">
+     <span class='ocr_line' id='line_1_1' title="bbox 361 529 1371 650; baseline 0.003 -38"><span class='ocrx_word' id='word_1_1' title='bbox 361 530 658 650; x_wconf 46' lang='grc' dir='ltr'>ΔςιοικῖυΜεΝτΑ</span> <span class='ocrx_word' id='word_1_2' title='bbox 687 529 936 614; x_wconf 71' lang='lat' dir='ltr'>fflsToch</span> <span class='ocrx_word' id='word_1_3' title='bbox 964 529 1233 614; x_wconf 72' lang='grc' dir='ltr'>εοοιετΑτιε</span> <span class='ocrx_word' id='word_1_4' title='bbox 1260 530 1371 630; x_wconf 73' lang='grc' dir='ltr'>]Εευ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 248 661 1479 682">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 248 661 1479 682">
+     <span class='ocr_line' id='line_1_2' title="bbox 248 661 1479 682; baseline 0.002 -6"><span class='ocrx_word' id='word_1_5' title='bbox 248 661 1479 682; x_wconf 51' lang='grc' dir='ltr'>,ΝΜΜΜυΜΜᾺΜΜΜΜΜΜΝΛΜΜΜΜ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 332 2517 1657 2661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 332 2517 1657 2661">
+     <span class='ocr_line' id='line_1_3' title="bbox 332 2517 1657 2661; baseline 0.006 -36"><span class='ocrx_word' id='word_1_6' title='bbox 332 2518 709 2626; x_wconf 84' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_7' title='bbox 745 2517 1210 2629; x_wconf 86' lang='lat' dir='ltr'>SOCIETATIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1242 2520 1430 2661; x_wconf 86' lang='lat' dir='ltr'>JESU</span> <span class='ocrx_word' id='word_1_9' title='bbox 1467 2555 1477 2576; x_wconf 85' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1654 2527 1657 2530; x_wconf 71' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1826 5350">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1826 5350">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1826 5350; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1826 5350; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
